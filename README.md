@@ -1,17 +1,16 @@
 # Volodymyr Shevchenko | CTO @ Fayna Digital 👋
 
-### 🏗 Business Automation & Industrial AI Architect
-Expert in **Odoo MRP**, **n8n**, and **Python-to-Machine** integration.
+### 🏗️ Systems Architect & Business Automation Expert
+Transforming operational chaos into Enterprise-grade digital ecosystems.
 
-- 🛠 **Hard Tech:** Python 3.14, Django, PostgreSQL, IIoT (MQTT/API).
-- ⚙️ **Automation:** n8n (Self-hosted), Custom Odoo Modules, Manufacturing Logic.
-- 🧠 **AI Systems:** Prompt Engineering, AI Sales Agents (Voiceflow/GPT-4o).
-- 🌍 **Focus:** Transforming UA & EU businesses with Enterprise-grade solutions.
+- ⚙️ **Core Tech:** Odoo ERP (MRP/CRM), n8n Automation, Python-to-Machine (IIoT).
+- 🧠 **AI Integration:** Autonomous AI Sales Agents (Voiceflow/LLMs) for high-conversion funnels.
+- 🛡️ **Standards:** GDPR/RODO compliance, AWS-backed security, 24/7 system stability.
+- 🚀 **Methodology:** Implementing the "7 steps to a system" strategy for business scalability.
 
 ---
-### 💼 Agency Expertise (Fayna Digital)
-* **Industrial Solutions:** Direct communication between Odoo and printing machines.
-* **Complex Ecosystems:** CRM + Marketing Automation + AI Logic.
-* **Official Partner:** SendPulse (Omnichannel communication).
+### 🛠️ Key Resources
+* [**Technical Resume**](https://vladsh77.github.io/technical-resume/) - My full professional profile.
+* **Industrial IoT Demo** - Real-time machine monitoring logic (Odoo bridge).
 
-[LinkedIn Profile](https://www.linkedin.com/in/vladshua/) | [Fayna Agency Website](https://fayna.agency)
+[LinkedIn](https://www.linkedin.com/in/vladshua/) | [Fayna.agency](https://fayna.agency)
