@@ -19,12 +19,12 @@ My specialty is turning operational chaos into reliable, automated systems — f
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Dev Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,docker,postgres,nginx,linux,git" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,netlify" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,github,supabase,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,cloudflare,aws" />
 </p>
 
 <p align="center">
@@ -32,7 +32,27 @@ My specialty is turning operational chaos into reliable, automated systems — f
   <img src="https://img.shields.io/badge/KSeF_2.0-DC143C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Modbus_TCP-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Meta_CAPI-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modbus_TCP-222222?style=for-the-badge" />
+</p>
+
+---
+
+### ⚙️ Automation & Business Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/SendPulse-2980B9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Przelewy24-D6001C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon_SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
