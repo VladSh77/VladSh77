@@ -24,7 +24,7 @@ My specialty is turning operational chaos into reliable, automated systems — f
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,docker,postgres,nginx,linux,git" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,netlify" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,github,n8n,supabase" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,supabase,raspberrypi" />
 </p>
 
 <p align="center">
@@ -53,8 +53,7 @@ My specialty is turning operational chaos into reliable, automated systems — f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladSh77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladSh77&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=VladSh77&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
 </p>
 
 ---
