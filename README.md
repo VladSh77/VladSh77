@@ -48,7 +48,7 @@ My focus is turning operational chaos into reliable systems — from factory flo
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo_17-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo_17_·_18_·_19-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/KSeF_2.0-DC143C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Modbus_TCP-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Meta_CAPI-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
