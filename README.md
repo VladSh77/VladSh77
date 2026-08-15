@@ -12,10 +12,30 @@
 
 ### 🧭 About Me
 
-I design and build **enterprise-grade digital ecosystems** for manufacturing, e-commerce, and travel industry SMEs across the EU.  
-My specialty is turning operational chaos into reliable, automated systems — from factory floor to ERP to customer-facing AI.
+I design and build **enterprise-grade digital ecosystems** for manufacturing, e-commerce, and service SMEs across the EU.  
+My focus is turning operational chaos into reliable systems — from factory floors and ERPs to AI-driven workflows where routine tasks are executed by language models under strict machine verification.
 
 🇺🇦 Ukrainian · 🇵🇱 Based in Poland · 🌍 Serving EU clients
+
+---
+
+### 🤖 AI & LLM Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenRouter-6D00CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Moonshot_Kimi-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GLM_Z--AI-1F2937?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCP_Servers-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_FAISS-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/faster--whisper-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_Pipelines-0E75B6?style=for-the-badge" />
+</p>
 
 ---
 
@@ -32,7 +52,6 @@ My specialty is turning operational chaos into reliable, automated systems — f
   <img src="https://img.shields.io/badge/KSeF_2.0-DC143C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Modbus_TCP-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Meta_CAPI-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modbus_TCP-222222?style=for-the-badge" />
 </p>
 
 ---
@@ -62,10 +81,11 @@ My specialty is turning operational chaos into reliable, automated systems — f
 | Repository | Description | Stack |
 |-----------|-------------|-------|
 | [l10n-pl-ksef-margin](https://github.com/VladSh77/l10n-pl-ksef-margin) | KSeF 2.0 e-invoicing + VAT Marża for Odoo 17 | Python · Odoo · FA(3) XML |
-| [sendpulse-odoo](https://github.com/VladSh77/sendpulse-odoo) | SendPulse multi-channel chatbot → Odoo Discuss | Python · OWL · Webhooks |
-| [zadarma-odoo](https://github.com/VladSh77/zadarma-odoo) | Zadarma VoIP — calls, recordings, Click-to-Call | Python · Odoo CRM |
+| [local-rag-mcp](https://github.com/VladSh77/local-rag-mcp) | Local RAG knowledge base + Model Context Protocol (MCP) server | Python · Ollama · RAG · MCP |
+| [sendpulse-odoo](https://github.com/VladSh77/sendpulse-odoo) | SendPulse multi-channel chatbot → Odoo Discuss + LLM autoreply | Python · OWL · Webhooks |
+| [zadarma-odoo](https://github.com/VladSh77/zadarma-odoo) | Zadarma VoIP — calls, recordings, Click-to-Call CRM bridge | Python · Odoo CRM |
 | [dnj-shopfloor](https://github.com/VladSh77/dnj-shopfloor) | Shopfloor kiosk + manager dashboard + Modbus bridge | Odoo · OWL · Docker |
-| [ai-kiosk](https://github.com/VladSh77/ai-kiosk) | 100% offline AI voice kiosk (Vosk STT + Piper TTS) | Python · Raspberry Pi |
+| [ai-kiosk](https://github.com/VladSh77/ai-kiosk) | 100% offline AI voice kiosk (Vosk STT + edge-tts) | Python · Raspberry Pi |
 | [demo-industrial-iot](https://github.com/VladSh77/demo-industrial-iot) | Industrial IoT bridge: machine floor → Odoo MRP | Python · Modbus TCP |
 
 ---
@@ -80,7 +100,8 @@ My specialty is turning operational chaos into reliable, automated systems — f
 
 ### 💡 Methodology
 
-> **"7 Steps to a System"** — Audit → Architecture → Automation → Integration → Monitoring → Training → Scale
+> **"7 Steps to a System"** — Audit → Architecture → Automation → Integration → Monitoring → Training → Scale  
+> **Engineering Pipeline:** Spec-driven task delegation → Execution by cost-effective LLMs → Live verification → Deterministic CI quality gates
 
 ---
 
