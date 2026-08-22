@@ -12,7 +12,7 @@
 
 ### 🧭 About Me
 
-I design and build **enterprise-grade digital ecosystems** for manufacturing, e-commerce, and service SMEs across the EU.  
+I design and build **enterprise-grade digital ecosystems** for manufacturing, e-commerce, and service SMEs across the EU.
 My focus is turning operational chaos into reliable systems — from factory floors and ERPs to AI-driven workflows where routine tasks are executed by language models under strict machine verification.
 
 🇺🇦 Ukrainian · 🇵🇱 Based in Poland · 🌍 Serving EU clients
@@ -80,13 +80,13 @@ My focus is turning operational chaos into reliable systems — from factory flo
 
 | Repository | Description | Stack |
 |-----------|-------------|-------|
-| [l10n-pl-ksef-margin](https://github.com/VladSh77/l10n-pl-ksef-margin) | KSeF 2.0 e-invoicing + VAT Marża for Odoo 17 | Python · Odoo · FA(3) XML |
-| [local-rag-mcp](https://github.com/VladSh77/local-rag-mcp) | Local RAG knowledge base + Model Context Protocol (MCP) server | Python · Ollama · RAG · MCP |
-| [sendpulse-odoo](https://github.com/VladSh77/sendpulse-odoo) | SendPulse multi-channel chatbot → Odoo Discuss + LLM autoreply | Python · OWL · Webhooks |
-| [zadarma-odoo](https://github.com/VladSh77/zadarma-odoo) | Zadarma VoIP — calls, recordings, Click-to-Call CRM bridge | Python · Odoo CRM |
-| [dnj-shopfloor](https://github.com/VladSh77/dnj-shopfloor) | Shopfloor kiosk + manager dashboard + Modbus bridge | Odoo · OWL · Docker |
-| [ai-kiosk](https://github.com/VladSh77/ai-kiosk) | 100% offline AI voice kiosk (Vosk STT + edge-tts) | Python · Raspberry Pi |
-| [demo-industrial-iot](https://github.com/VladSh77/demo-industrial-iot) | Industrial IoT bridge: machine floor → Odoo MRP | Python · Modbus TCP |
+| [fayna-ksef-margin](https://github.com/fayna-digital/fayna-ksef-margin) | KSeF 2.0 e-invoicing + VAT Marża for Odoo 17 | Python · Odoo · FA(3) XML |
+| [fayna-rag-mcp](https://github.com/fayna-digital/fayna-rag-mcp) | Local RAG knowledge base + Model Context Protocol (MCP) server | Python · Ollama · RAG · MCP |
+| [fayna-sendpulse-odoo](https://github.com/fayna-digital/fayna-sendpulse-odoo) | SendPulse multi-channel chatbot → Odoo Discuss + LLM autoreply | Python · OWL · Webhooks |
+| [fayna-zadarma-odoo](https://github.com/fayna-digital/fayna-zadarma-odoo) | Zadarma VoIP — calls, recordings, Click-to-Call CRM bridge | Python · Odoo CRM |
+| [fayna-shopfloor-kiosk](https://github.com/fayna-digital/fayna-shopfloor-kiosk) | Shopfloor kiosk + manager dashboard + Modbus bridge | Odoo · OWL · Docker |
+| [fayna-ai-kiosk](https://github.com/fayna-digital/fayna-ai-kiosk) | 100% offline AI voice kiosk (Vosk STT + edge-tts) | Python · Raspberry Pi |
+| [fayna-industrial-iot](https://github.com/fayna-digital/fayna-industrial-iot) | Industrial IoT bridge: machine floor → Odoo MRP | Python · Modbus TCP |
 
 ---
 
@@ -100,7 +100,7 @@ My focus is turning operational chaos into reliable systems — from factory flo
 
 ### 💡 Methodology
 
-> **"7 Steps to a System"** — Audit → Architecture → Automation → Integration → Monitoring → Training → Scale  
+> **"7 Steps to a System"** — Audit → Architecture → Automation → Integration → Monitoring → Training → Scale
 > **Engineering Pipeline:** Spec-driven task delegation → Execution by cost-effective LLMs → Live verification → Deterministic CI quality gates
 
 ---
