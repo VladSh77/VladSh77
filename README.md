@@ -42,7 +42,7 @@ My focus is turning operational chaos into reliable systems — from factory flo
 ### 🛠 Dev Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,docker,postgres,nginx,linux,git" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,ruby,docker,postgres,nginx,linux,git" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,netlify" /><br/>
   <img src="https://skillicons.dev/icons?i=vscode,github,cloudflare,aws" />
 </p>
